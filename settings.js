@@ -62,10 +62,10 @@ global.mess = {
 }
 
 //media target
-global.thum = fs.readFileSync("./NeroMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./NeroMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./NeroMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./NeroMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/245681161_1447487598955862_788092200955734172_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFXQv6JgGlXLkGGnX_8daALlBhI9Q8JV6SUGEj1DwlXpCCCd_7T9bidswPFulVhijl9OmRlzQHqUZMnnjSgGHsK&_nc_ohc=biuvhtr68gMAX9wd6t5&_nc_zt=23&_nc_ht=scontent.fcmb4-2.fna&oh=00_AfBBjqvnLkdFYAWf2iuisS1_uQ1tWqxewt9xOyMCjFsqyA&oe=6435BA45") //ur thumb pic
+global.log0 = fs.readFileSync("https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/245681161_1447487598955862_788092200955734172_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFXQv6JgGlXLkGGnX_8daALlBhI9Q8JV6SUGEj1DwlXpCCCd_7T9bidswPFulVhijl9OmRlzQHqUZMnnjSgGHsK&_nc_ohc=biuvhtr68gMAX9wd6t5&_nc_zt=23&_nc_ht=scontent.fcmb4-2.fna&oh=00_AfBBjqvnLkdFYAWf2iuisS1_uQ1tWqxewt9xOyMCjFsqyA&oe=6435BA45") //ur logo pic
+global.err4r = fs.readFileSync("https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/245681161_1447487598955862_788092200955734172_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFXQv6JgGlXLkGGnX_8daALlBhI9Q8JV6SUGEj1DwlXpCCCd_7T9bidswPFulVhijl9OmRlzQHqUZMnnjSgGHsK&_nc_ohc=biuvhtr68gMAX9wd6t5&_nc_zt=23&_nc_ht=scontent.fcmb4-2.fna&oh=00_AfBBjqvnLkdFYAWf2iuisS1_uQ1tWqxewt9xOyMCjFsqyA&oe=6435BA45") //ur error pic
+global.thumb = fs.readFileSync("https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/245681161_1447487598955862_788092200955734172_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFXQv6JgGlXLkGGnX_8daALlBhI9Q8JV6SUGEj1DwlXpCCCd_7T9bidswPFulVhijl9OmRlzQHqUZMnnjSgGHsK&_nc_ohc=biuvhtr68gMAX9wd6t5&_nc_zt=23&_nc_ht=scontent.fcmb4-2.fna&oh=00_AfBBjqvnLkdFYAWf2iuisS1_uQ1tWqxewt9xOyMCjFsqyA&oe=6435BA45") //ur thumb pic
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
