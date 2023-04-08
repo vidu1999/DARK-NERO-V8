@@ -17,17 +17,17 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.ANTI_BADWORD = 'true' // true of false
 global.AUTO_REACT = 'false' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
-global.INBOX_BLOCK = 'off' //inbox block
+global.INBOX_BLOCK = 'on' //inbox block
 global.alivemsg = 'VKJ ʙᴏᴛ'
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0786802371'] //ur owner number
+global.owner = ['0781031038'] //ur owner number
 global.ownername = "VKJ" //ur owner name
 global.ytname = "YT: VKJ" //ur yt chanel name
 global.socialm = "GitHub: Vidura1999" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.session = " " //session Id
+global.session = "NmRHNEhDSk4=" //session Id
 global.ownernomer = "94781031038" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
 global.premium = ['94781031038'] //ur premium number
