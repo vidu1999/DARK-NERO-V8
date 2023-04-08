@@ -19,7 +19,7 @@ global.AUTO_REACT = 'false' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'on' //inbox block
 global.alivemsg = 'VKJ ʙᴏᴛ'
-global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
+global.alivepic = 'https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/245681161_1447487598955862_788092200955734172_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFXQv6JgGlXLkGGnX_8daALlBhI9Q8JV6SUGEj1DwlXpCCCd_7T9bidswPFulVhijl9OmRlzQHqUZMnnjSgGHsK&_nc_ohc=biuvhtr68gMAX9wd6t5&_nc_zt=23&_nc_ht=scontent.fcmb4-2.fna&oh=00_AfBBjqvnLkdFYAWf2iuisS1_uQ1tWqxewt9xOyMCjFsqyA&oe=6435BA45'
 global.owner = ['0781031038'] //ur owner number
 global.ownername = "VKJ" //ur owner name
 global.ytname = "YT: VKJ" //ur yt chanel name
